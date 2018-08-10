@@ -1,0 +1,25 @@
+{
+  "name": "ReactTest",
+  "version": "0.0.1",
+  "description": "sample of react native embedding ios",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "danke77",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^16.3.1",
+    "react-native": "^0.56.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
+    "react-native-communications": "^2.2.1",
+    "react-native-smart-button": "^2.0.4-beta.1",
+    "react-native-smart-gesture-password": "^2.1.0",
+    "react-navigation": "^2.6.2"
+  },
+  "devDependencies": {
+    "react": "~16.3.1"
+  }
+}
